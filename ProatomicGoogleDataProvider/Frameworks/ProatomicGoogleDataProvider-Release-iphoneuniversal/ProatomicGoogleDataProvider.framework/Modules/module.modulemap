@@ -1,0 +1,6 @@
+framework module ProatomicGoogleDataProvider {
+  umbrella header "ProatomicGoogleDataProvider.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ProatomicGoogleDataProvider_Example' do
+  pod 'ProatomicGoogleDataProvider', :path => '../'
+
+  target 'ProatomicGoogleDataProvider_Tests' do
+    inherit! :search_paths
+
+    #pod 'FBSnapshotTestCase'
+  end
+end
