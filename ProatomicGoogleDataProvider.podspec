@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'ProatomicGoogleDataProvider'
-s.version          = '0.1.7'
+s.version          = '0.1.8'
 s.summary          = "Proatomic's nice wrapper for the google maps API"
 s.description      = "This is a nice wrapper for the google maps API. It exposes 3 methods of the Google API: Fetch directions (routes), Geocoding, fetch places"
 
